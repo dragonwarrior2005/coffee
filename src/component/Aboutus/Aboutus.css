@@ -1,0 +1,18 @@
+.aboutus h1, .aboutus p {
+    color: white;
+}
+.aboutus h1 {
+    font-size: 60px;
+}
+.aboutus p {
+    padding: 50px 0;
+    font-size: 20px;
+}
+.aboutus {
+    margin: 30px;
+}
+.aboutsec {
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-between;
+}
