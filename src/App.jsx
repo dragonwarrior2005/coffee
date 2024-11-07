@@ -3,6 +3,7 @@ import './App.css'
 import Header from './component/Header/Header';
 import Banner from './component/Banner/Banner';
 import Aboutus from './component/Aboutus/Aboutus';
+import Footer from './component/Footer/Footer'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
      <Header/>
      <Banner/>  
      <Aboutus/>
+     <Footer/>
     </>
    
   );
